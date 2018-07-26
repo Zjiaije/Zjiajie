@@ -1,0 +1,14 @@
+{
+  "symbol": "HNB",
+  "address": "0xa78e2ed1f2041543fccfc4126bd4eebe58dd0099",
+  "overview":{
+        "en":"Hopeful Natural Chain.",
+        "zh":"针对传统农业行业的问题，提出并实现了区块链技术+农业溯源的解决方案。"
+  },
+  "links": {
+        "facebook": "https://www.facebook.com/hnbi/"
+   },
+  "website": "http://www.hnbi.io/",
+  "whitepaper": "http://www.hnbi.io/HNB.pdf",
+  "published_on": "2018-07-10"
+}
